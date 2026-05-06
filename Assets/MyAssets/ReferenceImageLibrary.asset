@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4774319353436827195
+  m_GuidHigh: 89961307291463577
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5465634686661113309
+      m_GuidHigh: 2801183357007379597
+    m_SerializedTextureGuid:
+      m_GuidLow: 55273519746098905
+      m_GuidHigh: 9212164059171131866
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: fish
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5123866822760326800
+      m_GuidHigh: 10519882029546457003
+    m_SerializedTextureGuid:
+      m_GuidLow: 3216890025471230048
+      m_GuidHigh: 17290607693508788088
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: dreamy
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4864344772001546882
+      m_GuidHigh: 6056287696020538798
+    m_SerializedTextureGuid:
+      m_GuidLow: 5094944199286818125
+      m_GuidHigh: 17071719760916384281
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: meme
+    m_Texture: {fileID: 0}
