@@ -25,7 +25,7 @@ MonoBehaviour:
       m_GuidHigh: 9212164059171131866
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: fish
+    m_Name: Cube
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
       m_GuidLow: 5123866822760326800
@@ -35,7 +35,7 @@ MonoBehaviour:
       m_GuidHigh: 17290607693508788088
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: dreamy
+    m_Name: Cylinder
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
       m_GuidLow: 4864344772001546882
@@ -45,5 +45,5 @@ MonoBehaviour:
       m_GuidHigh: 17071719760916384281
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: meme
+    m_Name: Sphere
     m_Texture: {fileID: 0}
