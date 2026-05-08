@@ -10,7 +10,7 @@ public class ObjectDespawner : MonoBehaviour
     InputAction tapAction;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    /*void Start()
     {
         //tapCountAction = InputSystem.actions.FindAction("Screen Touch Count");
         tapAction = InputSystem.actions.FindAction("Click");
@@ -25,9 +25,9 @@ public class ObjectDespawner : MonoBehaviour
         {
             print("Touch detected ");
         }
-        /*if(tapCountAction.ReadValue<int>() == 2)
+        *//*if(tapCountAction.ReadValue<int>() == 2)
         {
             spawnedObjectsManager.OnDestroyObjectsButtonClicked();
-        }*/
-    }
+        }*//*
+    }*/
 }
